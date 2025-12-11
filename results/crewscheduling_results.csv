@@ -1,0 +1,11 @@
+filename,num_airports,num_flights,avg_runtime_ms,total_crew_required,max_flow_value,feasible
+crewscheduling_a10_f100.csv,10,100,6.6065,35,100,true
+crewscheduling_a10_f200.csv,10,200,5.4157,56,199,true
+crewscheduling_a15_f500.csv,15,500,18.6955,109,500,true
+crewscheduling_a20_f1000.csv,20,1000,36.4138,184,995,true
+crewscheduling_a25_f2000.csv,25,2000,87.9703,370,1989,true
+crewscheduling_a30_f5000.csv,30,5000,333.5797,552,4911,true
+crewscheduling_a3_f10.csv,3,11,0.1203,7,11,true
+crewscheduling_a50_f10000.csv,50,10000,876.9246,1062,9806,true
+crewscheduling_a5_f20.csv,5,20,0.0970,10,20,true
+crewscheduling_a5_f50.csv,5,50,0.2112,16,50,true
