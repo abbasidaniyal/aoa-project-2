@@ -1,0 +1,14 @@
+filename,num_foods,num_nutrients,avg_runtime_ms,sets_selected,total_calories,coverage_complete
+setcover_f100000_n1000.csv,100000,1000,7139.2021,14,28666.00,true
+setcover_f10000_n200.csv,10000,200,108.1897,10,20592.00,true
+setcover_f10000_n500.csv,10000,500,324.8545,13,26829.00,true
+setcover_f1000_n75.csv,1000,75,11.1281,9,18684.00,true
+setcover_f100_n20.csv,100,20,0.9779,3,6047.00,true
+setcover_f10_n5.csv,10,5,0.0995,1,2101.00,true
+setcover_f2000_n100.csv,2000,100,40.5898,9,19222.00,true
+setcover_f200_n30.csv,200,30,0.9906,5,10520.00,true
+setcover_f20_n10.csv,20,10,0.0347,1,2165.00,true
+setcover_f50000_n500.csv,50000,500,1505.6496,12,24817.00,true
+setcover_f5000_n150.csv,5000,150,44.0023,10,20877.00,true
+setcover_f500_n50.csv,500,50,1.3147,7,15018.00,true
+setcover_f50_n15.csv,50,15,0.3156,2,4468.00,true

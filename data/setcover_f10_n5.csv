@@ -1,0 +1,12 @@
+#UNIVERSE,Vitamin1;Mineral2;Protein3;Fiber4;Omega5
+#MAX_CALORIES,13175.01
+Chicken_1,2327,Vitamin1;Protein3;Omega5;Fiber4
+Banana_2,2377,Omega5;Vitamin1;Protein3;Mineral2
+Potato_3,2015,Mineral2;Omega5;Protein3;Vitamin1
+Corn_4,2101,Mineral2;Fiber4;Protein3;Omega5;Vitamin1
+Corn_5,2412,Fiber4;Protein3;Mineral2;Vitamin1;Omega5
+Almonds_6,2172,Vitamin1;Fiber4;Omega5;Mineral2
+Carrot_7,2176,Vitamin1;Fiber4;Protein3;Omega5;Mineral2
+Banana_8,2282,Omega5;Protein3;Fiber4;Vitamin1;Mineral2
+Pasta_9,2338,Protein3;Vitamin1;Fiber4;Omega5;Mineral2
+Garlic_10,2232,Mineral2;Protein3;Omega5;Vitamin1;Fiber4
